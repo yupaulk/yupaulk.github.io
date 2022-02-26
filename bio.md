@@ -1,0 +1,12 @@
+---
+layout: page
+title: Bio
+permalink: /bio/
+---
+**ACADEMIC BACKGROUND**
+
+**PROFESSIONAL EXPERIENCE**
+
+**AWARDS**
+
+**MEMBERSHIP IN PROFESSIONAL ORGANIZATION**
