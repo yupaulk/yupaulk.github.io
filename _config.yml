@@ -21,14 +21,18 @@
 title: Paul K. Yu
 email: paul_k_yu@dlsu.edu.ph
 description: >- # this means to ignore newlines until "baseurl:"
-  This site is powered by Jekyll and GitHub Pages. Design was derived from the minima theme.
+  This site is powered by Jekyll and GitHub Pages. Design was derived from the minima theme. Some icons were loaded from Font Awesome and Academicons.
 baseurl: "" # the subpath of your site, e.g. /blog
-#url: "https://yupaulk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-url: ""
+url: "https://yupaulk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
 facebook_username: paul.yu.7161
 github_username: yupaulk
 linkedin_username: paul-y-891890b
-twitter_username: yupaulk
+scholar_username: 6ySBQHwAAAAJ
+twitter_username: @yupaulk
+orcid_username: 0000-0001-7848-5050
+researchgate_username: Paul-Yu-5
+scopus_username:
 
 # Build settings
 theme: minima

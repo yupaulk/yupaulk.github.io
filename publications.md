@@ -3,9 +3,9 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-**ARTICLES**
+<i class="fa-regular fa-newspaper"></i> &nbsp; **ARTICLES**
 
-**CONFERENCE PROCEEDINGS**
+<i class="fa-solid fa-comments"></i> &nbsp; **CONFERENCE PROCEEDINGS**
 
-**SUBMITTED ABSTRACTS/POSTERS/PAPERS IN CONFERENCES**
+<i class="fa-solid fa-desktop"></i> &nbsp; **SUBMITTED ABSTRACTS/POSTERS/PAPERS IN CONFERENCES**
 
