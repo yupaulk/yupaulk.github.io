@@ -33,6 +33,6 @@ layout: home
 		</p>
 	</div>
 	<div class="column right">
-		<img src='/assets/paul-yu.jpg' width='200' height='210' align='right' />
+		<img src='/assets/paul-yu.jpg' width='230' height='240' align='right' />
 	</div>
 </div>
