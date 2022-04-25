@@ -14,8 +14,6 @@ permalink: /bio/
 2021 - present | **Research assistant** <br> Systems and Computational Biology (SComB) Research Unit <br> Center for Natural Sciences and Environmental Research (CENSER) <br> De La Salle University <br> MS Graduate Fellow, DOST-SEI Career Incentive Program <br> Supervisor: Dr. Angelyn Lao
 2008 - 2011 | **System engineer** <br> i-Bridge Systems Japan, Inc. <br> Yokohama, Japan <br> JLPT N1 Level 2011
 
-**AWARDS**
-
 **MEMBERSHIP IN PROFESSIONAL ORGANIZATION**
 
 2019 - present | **Member, Philippine Medical Association** <br> North Avenue, Quezon City
