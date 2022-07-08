@@ -18,6 +18,10 @@ R.C. Pantig, <u>P.K. Yu</u>, E.T. Rodulfo, A. Övgün <br>
 
 <i class="fa-solid fa-desktop"></i> &nbsp; **SUBMITTED ABSTRACTS/POSTERS/PAPERS IN CONFERENCES**
 
+2022 <br>
+[**Identification of drug targets in *Candida albicans* ergosterol biosynthesis pathway using mathematical modeling**](https://www.youtube.com/watch?v=tDnc9jFLe70) (**Best Poster Award**) <br>
+*[DLSU Research Congress 2022](https://www.facebook.com/DLSUResCon/videos/1044777786155541)* <br>
+
 2021 <br>
 [**Weak deflection angle of extended uncertainty principle (EUP) dirty black hole**](https://youtu.be/7GV5gZ28D5A?t=10) <br>
 *[38th Samahang Pisika ng Pilipinas](https://spp-online.org/spp2020/)* <br>
