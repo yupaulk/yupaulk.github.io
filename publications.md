@@ -17,20 +17,26 @@ R.C. Pantig, <u>P.K. Yu</u>, E.T. Rodulfo, A. Övgün <br>
 
 <br> <i class="fa-solid fa-desktop"></i> &nbsp; **SUBMITTED ABSTRACTS/POSTERS/PAPERS IN CONFERENCES** <br>
 2022 <br>
+**Systems biology approach to understanding azole resistance mechanisms in *Candida albicans*** <br>
+*[Leave a Nest Hyper Interdisciplinary Conference Philippines 2022](https://www.facebook.com/events/1331889717581736)*
+
+**Mathematical modeling approach to drug target identification in *Candida albicans* ergosterol biosynthesis pathway** <br>
+*[Annual PAASE Meeting & Symposium 2022](https://apams2022.paase.org/)*
+
 [**A modeling approach of drug target identification in *Candida albicans* ergosterol biosynthesis pathway**](https://dlsu-scomb.github.io/events/#dost1) (**3rd Place in Mathematical and Computational Sciences Category**) <br>
-*[10th DOST-SEI ASTHRDP Graduate Scholars' Conference](https://www.facebook.com/updcollegeofscience/videos/1259858458124312)* <br>
+*[10th DOST-SEI ASTHRDP Graduate Scholars' Conference](https://www.facebook.com/updcollegeofscience/videos/1259858458124312)*
 
 [**Identification of drug targets in *Candida albicans* ergosterol biosynthesis pathway using mathematical modeling**](https://www.youtube.com/watch?v=tDnc9jFLe70) (**Best Poster Award**) <br>
-*[DLSU Research Congress 2022](https://www.facebook.com/DLSUResCon/videos/1044777786155541)* <br>
+*[DLSU Research Congress 2022](https://www.facebook.com/DLSUResCon/videos/1044777786155541)*
 
 2021 <br>
 [**Weak deflection angle of extended uncertainty principle (EUP) dirty black hole**](https://youtu.be/7GV5gZ28D5A?t=10) <br>
-*[38th Samahang Pisika ng Pilipinas](https://spp-online.org/spp2020/)* <br>
+*[38th Samahang Pisika ng Pilipinas](https://spp-online.org/spp2020/)*
 
 2018 <br>
 **Factors associated with complementary feeding practices among mothers of children 6-23 months old in San Juan: A Cross-Sectional Analytic Study** <br>
-*[14th Congress of the Asian Society for Pediatric Research](http://www.aspr.jp/events/past_congress/index.html)* <br>
+*[14th Congress of the Asian Society for Pediatric Research](http://www.aspr.jp/events/past_congress/index.html)*
 
 2015 <br>
 **Phytochemical profiling of water and ethanol extracts of lemongrass (*Cymbopogon citratus*)** <br>
-*APMC 10th Medical Students’ Summit* <br>
+*APMC 10th Medical Students’ Summit*
