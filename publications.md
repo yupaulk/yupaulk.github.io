@@ -9,10 +9,6 @@ permalink: /publications/
 <u>P.K. Yu</u>, L.S. Moron-Espiritu, and A.R. Lao. <br>
 *mSystems 7(6), e00691-22.*
 
-[**Mathematical Modeling of Fluconazole Resistance in the Ergosterol Pathway of *Candida albicans***](https://www.biorxiv.org/content/10.1101/2022.06.09.495576v1) <br>
-<u>P.K. Yu</u>, L.S. Moron-Espiritu, A.R. Lao <br>
-*bioRxiv preprint. [https://doi.org/10.1101/2022.06.09.495576](https://doi.org/10.1101/2022.06.09.495576)*
-
 [**Shadow and weak deflection angle of extended uncertainty principle black hole surrounded with dark matter**](https://www.sciencedirect.com/science/article/abs/pii/S0003491621003225) <br>
 R.C. Pantig, <u>P.K. Yu</u>, E.T. Rodulfo, A. Övgün <br>
 *Annals of Physics 436, 168722*
