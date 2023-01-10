@@ -36,7 +36,7 @@ layout: home
 		I earned my Bachelor of Science degree in Computer Science major in Computer Systems Engineering (<i>cum laude</i>) at De La Salle University. I was a member of <a href="https://www.dlsu-lscs.org/" target="_blank">La Salle Computer Society</a>. My thesis was on <a href="https://animorepository.dlsu.edu.ph/etd_bachelors/14598/" target="_blank">"Vision-based intelligent system for traffic analysis (VISTA)"</a> under the guidance of Mr. Clement Ong.
 		</p>
 		<p>
-		I am a member of the following professional organizations: <a href="https://www.siam.org/)" target="_blank">Society for Industrial and Applied Mathematics</a>, <a href="https://asm.org/)" target="_blank">American Society for Microbiology</a>, <a href="https://www.philippinemedicalassociation.org/" target="_blank">Philippine Medical Association</a>, and <a href="https://www.facebook.com/manilamedsoc/" target="_blank">Manila Medical Society</a>.
+		I am a member of the following professional organizations: <a href="https://www.smb.org/)" target="_blank">Society for Mathematical Biology</a>, <a href="https://www.siam.org/)" target="_blank">Society for Industrial and Applied Mathematics</a>, <a href="https://asm.org/)" target="_blank">American Society for Microbiology</a>, <a href="https://www.philippinemedicalassociation.org/" target="_blank">Philippine Medical Association</a>, and <a href="https://www.facebook.com/manilamedsoc/" target="_blank">Manila Medical Society</a>.
 		</p>
 	</div>
 	<div class="column right">
