@@ -17,6 +17,7 @@ permalink: /bio/
 
 **MEMBERSHIP IN PROFESSIONAL ORGANIZATION**
 
+2023 - Present | **Member, [Society for Mathematical Biology](https://www.smb.org/)** <br> Huntington, WV
 2022 - Present | **Member, [American Society for Microbiology](https://asm.org/)** <br> Washington, DC
 2022 - Present | **Member, [Society for Industrial and Applied Mathematics](https://www.siam.org/)** <br> Philadelphia, PA
 2019 - Present | **Member, [Philippine Medical Association](https://www.philippinemedicalassociation.org/)** <br> North Avenue, Quezon City
