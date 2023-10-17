@@ -61,7 +61,7 @@ Linear Algebra, Bioinformatics, <br>
 &emsp; &emsp; &emsp; &emsp; Deep Learning, Bayesian Statistics, Statistical Methods <br>
 &emsp; &emsp; Member, Systems & Computational Biology Research Unit – Mentor: Prof. Angelyn R. Lao
 
-De La Salle University &emsp; 2018-2021 <br>
+De La Salle University &emsp; 2019-2021 <br>
 &emsp; **MS Physics** <br>
 &emsp; &emsp; Thesis: Weak deflection angle and shadow of an extended uncertainty principle black hole
 with dark matter halo <br>
