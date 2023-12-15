@@ -13,11 +13,12 @@ layout: home
 .left {
   width: 730px;
   text-align: justify;
+  padding-right: 5px;
 }
 
 .right {
   width: 200px;
-  padding-left: 10px;
+  padding-left: 5px;
 }
 </style>
 
