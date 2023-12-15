@@ -40,6 +40,6 @@ layout: home
 		</p>
 	</div>
 	<div class="column right">
-		<img src='/assets/paul-yu.jpg' width='200' align='left' />
+		<img src='/assets/paul-yu.png' width='200' align='left' />
 	</div>
 </div>
