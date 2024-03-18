@@ -33,6 +33,7 @@ System Engineer, i-Bridge Systems Japan Inc. &emsp; 2008-2011 <br>
 
 <br> <i class="fa-solid fa-earth-americas"></i> &nbsp; **PROFESSIONAL MEMBERSHIPS**
 
+2024 &emsp; **[Philippine Society for Mathematical Biology](https://www.facebook.com/people/Philippine-Society-for-Mathematical-Biology/100092609835908/)**, Los Banos, Laguna <br>
 2023 &emsp; **[Society for Mathematical Biology](https://www.smb.org/)**, Huntington, WV <br>
 2022 &emsp; **[American Society for Microbiology](https://asm.org/)**, Washington, DC <br>
 2022 &emsp; **[Society for Industrial and Applied Mathematics](https://www.siam.org/)**, Philadelphia, PA <br>
