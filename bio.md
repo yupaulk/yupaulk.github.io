@@ -17,31 +17,40 @@ metaxa2, phyloseq, qiime2), <br>
 
 <br> <i class="fa-solid fa-briefcase"></i> &nbsp; **PROFESSIONAL EXPERIENCE**
 
-Research Assistant, **Bioinformatics Lab**, De La Salle University &emsp; 2023- <br>
+Bioinformatics Consultant, **David Lab**, Duke University &emsp; 2023-2024 <br>
+&emsp; Mentor: Dr. Lawrence A. David <br>
+&emsp; Tasks: Bioinformatics pipeline of reference database curation, in silico primer testing
+
+Research Assistant, **Bioinformatics Lab**, De La Salle University &emsp; 2023-2024 <br>
 &emsp; Mentor: Dr. Anish M.S. Shrestha <br>
 &emsp; Tasks: Bioinformatics pipeline of metagenomic sequences, Fine-tuning of protein
 language model
 
-Research Assistant, **Systems & Computational Biology Unit**, De La Salle University &emsp; 2021- <br>
+Research Fellow, **Systems & Computational Biology Unit**, De La Salle University &emsp; 2021-2024 <br>
 &emsp; Mentor: Prof. Angelyn R. Lao <br>
 &emsp; Tasks: Mathematical modeling of metabolic pathways, Network analysis, Systematic
 review, <br> 
 &emsp; &emsp; Imputation tool for single-cell RNA-Seq data, Microbiome analysis
 
-System Engineer, i-Bridge Systems Japan Inc. &emsp; 2008-2011 <br>
+System Engineer, **i-Bridge Systems Japan Inc.** &emsp; 2008-2011 <br>
 &emsp; Tasks: Firmware programming, QA testing
 
 <br> <i class="fa-solid fa-earth-americas"></i> &nbsp; **PROFESSIONAL MEMBERSHIPS**
 
-2024 &emsp; **[Philippine Society for Mathematical Biology](https://www.facebook.com/people/Philippine-Society-for-Mathematical-Biology/100092609835908/)**, Los Banos, Laguna <br>
-2023 &emsp; **[Society for Mathematical Biology](https://www.smb.org/)**, Huntington, WV <br>
-2022 &emsp; **[American Society for Microbiology](https://asm.org/)**, Washington, DC <br>
-2022 &emsp; **[Society for Industrial and Applied Mathematics](https://www.siam.org/)**, Philadelphia, PA <br>
-2019 &emsp; **[Philippine Medical Association](https://www.philippinemedicalassociation.org/)**, North Avenue, Quezon City <br>
-2019 &emsp; **[Manila Medical Society](https://www.facebook.com/manilamedsoc/)**, Sampaloc, Manila
+2024 &emsp; **[Philippine Society for Mathematical Biology](https://www.facebook.com/people/Philippine-Society-for-Mathematical-Biology/100092609835908/)**, Los Banos, Laguna, Philippines<br>
+2023 &emsp; **[Society for Mathematical Biology](https://www.smb.org/)**, Tampa, FL, USA <br>
+2023 &emsp; **[European Mathematical Society](https://euromathsoc.org/)**, Helsinki, Finland <br>
+2022 &emsp; **[American Society for Microbiology](https://asm.org/)**, Washington, DC, USA <br>
+2022 &emsp; **[Society for Industrial and Applied Mathematics](https://www.siam.org/)**, Philadelphia, PA, USA <br>
+2019 &emsp; **[Philippine Medical Association](https://www.philippinemedicalassociation.org/)**, North Avenue, Quezon City, Philippines <br>
+2019 &emsp; **[Manila Medical Society](https://www.facebook.com/manilamedsoc/)**, Sampaloc, Manila, Philippines
 
 <br> <i class="fa-solid fa-sack-dollar"></i> &nbsp; **FELLOWSHIPS & AWARDS**
 
+2024 &emsp; **Huck Distinguished Graduate Fellowship** from Penn State University (annual stipend of $35,000 for Year 1, <br>
+&emsp; full tuition grant-in-aid, fellowship supplement of $20,000 for Years 2-5, one-time travel award of $750) <br>
+2024 &emsp; **Graham Award** from Penn State University ($8,000  for Year 1-2) <br>
+2022 &emsp; **Leave-a-Nest Grant Global Challenge** (covers P50,000 or ~880 USD for my research) <br>
 2022 &emsp; **MS Graduate Research Fellow, DOST-SEI ASTHRDP<sup>*</sup> Career Incentive Program** hosted by Systems &
 Computational <br>
 &emsp; Biology Unit, De La Salle University (covers P59,802 or ~1,050 USD monthly wage) <br>
@@ -55,12 +64,17 @@ monthly stipend, and <br>
 
 <br> <i class="fa-solid fa-graduation-cap"></i> &nbsp; **EDUCATION**
 
-De La Salle University &emsp; 2022- <br>
+Penn State University &emsp; 2024- <br>
+&emsp; **PhD Bioinformatics and Genomics** <br>
+&emsp; &emsp; Awards: Huck Distinguished Graduate Fellowship, Graham Award
+
+De La Salle University &emsp; 2022-2024 <br>
 &emsp; **MS Mathematics** (*took extra units*) <br>
-&emsp; &emsp; Units: Advanced Calculus, Set Theory and Logic, Complex Analysis, Topology, Advanced
-Linear Algebra, Bioinformatics, <br> 
-&emsp; &emsp; &emsp; &emsp; Deep Learning, Bayesian Statistics, Statistical Methods <br>
-&emsp; &emsp; Member, Systems & Computational Biology Research Unit – Mentor: Prof. Angelyn R. Lao
+&emsp; &emsp; Completed courses: Advanced Calculus, Set Theory and Logic, Complex Analysis, Topology, Advanced
+Linear Algebra, <br> 
+&emsp; &emsp; &emsp; &emsp; Bioinformatics,Deep Learning, Bayesian Statistics, Statistical Methods <br>
+&emsp; &emsp; Member, Systems & Computational Biology Research Unit – Mentor: Prof. Angelyn R. Lao <br>
+&emsp; &emsp; Member, Bioinformatics Lab – Mentor: Dr. Anish M.S. Shrestha
 
 De La Salle University &emsp; 2019-2021 <br>
 &emsp; **MS Physics** <br>
