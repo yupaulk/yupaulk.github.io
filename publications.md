@@ -5,11 +5,11 @@ permalink: /publications/
 ---
 <i class="fa-regular fa-newspaper"></i> &nbsp; **ARTICLES**
 
-3. <u>PK Yu</u>, G Aurellano, E Guanzon, EM Templonuevo, U Chua, BP Samson, JR delos Santos, A Lao. [**Research landscape of Filipino mathematicians: A co-authorship network analysis**](https://philjournalsci.dost.gov.ph/accepted-articles/130-vol-153-no-4-august-2024/2144-research-landscape-of-filipino-mathematicians-a-co-authorship-network-analysis). *Phlippine Journal of Science* 153(4), 2024. (Scopus-indexed Q3(49th))
+3. <u>PK Yu</u>, GC Aurellano, EB Guanzon, ET Templonuevo, UC Chua, BV Samson, JS delos Santos, AR Lao. [**Research landscape of Filipino mathematicians: A co-authorship network analysis**](https://philjournalsci.dost.gov.ph/images/pdf/pjs_pdf/vol153_No4_Aug2024/research_landscape_of_Filipino_Mathematicians_.pdf). *Phlippine Journal of Science* 153(4), 1277-1284, 2024. (Scopus-indexed Q3 (49th))
 
-2. <u>PK Yu</u>, LS Moron-Espiritu,  AR Lao. [**Mathematical modeling of fluconazole resistance in the ergosterol pathway of *Candida albicans***](https://journals.asm.org/doi/10.1128/msystems.00691-22). *mSystems* 7(6), e00691-22, 2022. (Scopus-indexed Q1(94th))
+2. <u>PK Yu</u>, LS Moron-Espiritu,  AR Lao. [**Mathematical modeling of fluconazole resistance in the ergosterol pathway of *Candida albicans***](https://journals.asm.org/doi/10.1128/msystems.00691-22). *mSystems* 7(6), e00691-22, 2022. (Scopus-indexed Q1 (94th))
 
-1. RC Pantig, <u>PK Yu</u>, ET Rodulfo, A Övgün. [**Shadow and weak deflection angle of extended uncertainty principle black hole surrounded with dark matter**](https://www.sciencedirect.com/science/article/abs/pii/S0003491621003225). *Annals of Physics* 436, 168722, 2022. (Scopus-indexed Q1(75th))
+1. RC Pantig, <u>PK Yu</u>, ET Rodulfo, A Övgün. [**Shadow and weak deflection angle of extended uncertainty principle black hole surrounded with dark matter**](https://www.sciencedirect.com/science/article/abs/pii/S0003491621003225). *Annals of Physics* 436, 168722, 2022. (Scopus-indexed Q1 (75th))
 
 <br> <i class="fa-solid fa-people-group"></i> &nbsp; **CONFERENCE PROCEEDINGS** <br>
 
