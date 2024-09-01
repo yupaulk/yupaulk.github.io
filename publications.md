@@ -13,7 +13,7 @@ permalink: /publications/
 
 <br> <i class="fa-solid fa-people-group"></i> &nbsp; **CONFERENCE PROCEEDINGS** <br>
 
-1. Meta-analysis of microplastic removal in biological and chemical wastewater treatment processes. 6th DLSU SHS Research Congress, Manila, June 2024
+1. RO Dela Rosa, KS Rasing, PP Sy, JH Valdez, <u>PK Yu</u>, AR Lao. [**Meta-analysis of microplastic removal in biological and chemical wastewater treatment processes**](https://www.youtube.com/watch?v=DEtushxFmls). *6th DLSU SHS Research Congress*, Manila, Philippines, June 2024.
 
 <br> <i class="fa-solid fa-chalkboard-user"></i> &nbsp; **SUBMITTED ABSTRACTS/POSTERS/PAPERS IN CONFERENCES**
 
