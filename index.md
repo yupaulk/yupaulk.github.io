@@ -25,8 +25,8 @@ layout: home
 <div class="row">
 	<div class="column left">
 		<p>
-		I am currently a PhD student in the <a href="https://www.huck.psu.edu/graduate-programs/bioinformatics-and-genomics/student-resources/ph-d-requirements/core-requirements" target="_blank">Bioinformatics and Genomics</a> program at the <a href="https://www.huck.psu.edu/" target="_blank">Huck Institutes of the Life Sciences</a> at the <a href="https://www.psu.edu/" target="_blank">Pennsylvania State University</a>.
-		My research interests are <b>Statistical Genomics, Bioinformatics, and Computational Biology</b>.
+		I am currently a PhD student in the <a href="https://www.huck.psu.edu/graduate-programs/bioinformatics-and-genomics/student-resources/ph-d-requirements/core-requirements" target="_blank">Bioinformatics and Genomics</a> program at the <a href="https://www.huck.psu.edu/" target="_blank">Huck Institutes of the Life Sciences</a> at the <a href="https://www.psu.edu/" target="_blank">Pennsylvania State University</a>. I was awarded the <a href="https://www.huck.psu.edu/resources/students/graduate-students/funding-sources" target="_blank">Huck Distinguished Graduate Fellowship</a> and <a href="https://science.psu.edu/diversity/graduate-students" target="_blank">Robert W. Graham Endowed Graduate Fellowship</a>
+		My research interests are <b>Statistical Genomics, Bioinformatics, and Precision Medicine</b>.
 		</p>
 		<p>
 		I worked as a bioinformatics consultant at the <a href="http://el.ladlab.org/" target="_blank">David lab at Duke University</a>. I created several pipelines for reference database curation using the QIIME2 framework. I generated phylogenetic trees and validated with BLAST for in silico primer testing.
