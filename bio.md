@@ -50,12 +50,10 @@ System Engineer, **i-Bridge Systems Japan Inc.** &emsp; 2008-2011 <br>
 2024 &emsp; **Huck Distinguished Graduate Fellowship** from Penn State University (annual stipend of $35,000 for Year 1, <br>
 &emsp; full tuition grant-in-aid, fellowship supplement of $20,000 for Years 2-5, one-time travel award of $750) <br>
 2024 &emsp; **Graham Award** from Penn State University ($8,000  for Year 1-2) <br>
-2022 &emsp; **Leave-a-Nest Grant Global Challenge** (covers P50,000 or ~880 USD for my research) <br>
-2022 &emsp; **MS Graduate Research Fellow, DOST-SEI ASTHRDP<sup>*</sup> Career Incentive Program** hosted by Systems &
-Computational <br>
-&emsp; Biology Unit, De La Salle University (covers P59,802 or ~1,050 USD monthly wage) <br>
-2018 &emsp; **DOST-SEI ASTHRDP Graduate Scholarship** (full scholarship, covers tuition, P25,000 or ~440 USD
-monthly stipend, and <br>
+2022 &emsp; **Leave-a-Nest Grant Global Challenge** (covers P50,000 or ~$880 for my research) <br>
+2022 &emsp; **MS Graduate Research Fellow, DOST-SEI ASTHRDP<sup>*</sup> Career Incentive Program** hosted by Systems & Computational <br>
+&emsp; Biology Unit, De La Salle University (covers P59,802 or ~$1,050 monthly wage) <br>
+2018 &emsp; **DOST-SEI ASTHRDP Graduate Scholarship** (full scholarship, covers tuition, P25,000 or ~$440 monthly stipend, and <br>
 &emsp; travel, insurance, publication allowances for my MS Physics study) <br>
 2014 &emsp; **Academic Scholarship for Doctor of Medicine**, St. Luke’s Medical Center College of Medicine
 (full scholarship, covers <br>
@@ -69,10 +67,10 @@ Penn State University &emsp; 2024- <br>
 &emsp; &emsp; Awards: Huck Distinguished Graduate Fellowship, Graham Award
 
 De La Salle University &emsp; 2022-2024 <br>
-&emsp; **MS Mathematics** (*took extra units*) <br>
+&emsp; **MS Mathematics** (*took extra credits*) <br>
 &emsp; &emsp; Completed courses: Advanced Calculus, Set Theory and Logic, Complex Analysis, Topology, Advanced
 Linear Algebra, <br> 
-&emsp; &emsp; &emsp; &emsp; Bioinformatics,Deep Learning, Bayesian Statistics, Statistical Methods <br>
+&emsp; &emsp; &emsp; &emsp; Bioinformatics, Deep Learning, Bayesian Statistics, Statistical Methods <br>
 &emsp; &emsp; Member, Systems & Computational Biology Research Unit – Mentor: Prof. Angelyn R. Lao <br>
 &emsp; &emsp; Member, Bioinformatics Lab – Mentor: Dr. Anish M.S. Shrestha
 
