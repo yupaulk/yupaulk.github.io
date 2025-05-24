@@ -64,8 +64,8 @@ System Engineer, **i-Bridge Systems Japan Inc.** &emsp; 2008-2011 <br>
 
 Penn State University &emsp; 2024- <br>
 &emsp; **PhD Bioinformatics and Genomics** <br>
-&emsp; &emsp; Awards: Huck Distinguished Graduate Fellowship, Graham Award
-&emsp; &emsp; Mamber, [Liu Group](https://dajiangliu.blog/) – Mentor: Prof. Dajiang J. Liu
+&emsp; &emsp; Awards: Huck Distinguished Graduate Fellowship, Graham Award <br>
+&emsp; &emsp; Member, [Liu Group](https://dajiangliu.blog/) – Mentor: Prof. Dajiang J. Liu
 
 De La Salle University &emsp; 2022-2024 <br>
 &emsp; **MS Mathematics** (*took extra credits*) <br>
