@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 <i class="fa-regular fa-newspaper"></i> &nbsp; **ARTICLES**
 
+4. A Camba, RDS Ganadin, AF Simando III, <u>PK Yu</u>, JTP Cruz. [**Fetomaternal outcomes among cesarean section parturients administered with norepinephrine vs. phenylephrine for post-spinal anesthesia hypotension: A systematic review and meta-analysis**](https://www.medrxiv.org/content/10.1101/2025.03.04.25323394v1). *medRxiv*, 2025.03. 04.25323394.
+
 3. <u>PK Yu</u>, GC Aurellano, EB Guanzon, ET Templonuevo, UC Chua, BV Samson, JS delos Santos, AR Lao. [**Research landscape of Filipino mathematicians: A co-authorship network analysis**](https://philjournalsci.dost.gov.ph/images/pdf/pjs_pdf/vol153_No4_Aug2024/research_landscape_of_Filipino_Mathematicians_.pdf). *Phlippine Journal of Science* 153(4), 1277-1284, 2024. (Scopus-indexed Q3 (49th))
 
 2. <u>PK Yu</u>, LS Moron-Espiritu,  AR Lao. [**Mathematical modeling of fluconazole resistance in the ergosterol pathway of *Candida albicans***](https://journals.asm.org/doi/10.1128/msystems.00691-22). *mSystems* 7(6), e00691-22, 2022. (Scopus-indexed Q1 (94th))
