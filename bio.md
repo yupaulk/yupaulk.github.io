@@ -17,22 +17,22 @@ metaxa2, phyloseq, qiime2), <br>
 
 <br> <i class="fa-solid fa-briefcase"></i> &nbsp; **PROFESSIONAL EXPERIENCE**
 
-Bioinformatics Consultant, **David Lab**, Duke University &emsp; 2023-2024 <br>
+Bioinformatics Consultant, [**David Lab**](https://www.ladlab.org/), Duke University &emsp; 2023-2024 <br>
 &emsp; Mentor: Dr. Lawrence A. David <br>
 &emsp; Tasks: Bioinformatics pipeline of reference database curation, in silico primer testing
 
-Research Assistant, **Bioinformatics Lab**, De La Salle University &emsp; 2023-2024 <br>
+Research Assistant, [**Bioinformatics Lab**](https://bioinfodlsu.com/), De La Salle University &emsp; 2023-2024 <br>
 &emsp; Mentor: Dr. Anish M.S. Shrestha <br>
 &emsp; Tasks: Bioinformatics pipeline of metagenomic sequences, Fine-tuning of protein
 language model
 
-Research Fellow, **Systems & Computational Biology Unit**, De La Salle University &emsp; 2021-2024 <br>
+Research Fellow, [**Systems & Computational Biology Unit**](https://dlsu-scomb.github.io/), De La Salle University &emsp; 2021-2024 <br>
 &emsp; Mentor: Prof. Angelyn R. Lao <br>
 &emsp; Tasks: Mathematical modeling of metabolic pathways, Network analysis, Systematic
 review, <br> 
 &emsp; &emsp; Imputation tool for single-cell RNA-Seq data, Microbiome analysis
 
-System Engineer, **i-Bridge Systems Japan Inc.** &emsp; 2008-2011 <br>
+System Engineer, [**i-Bridge Systems Japan Inc.**](https://www.i-bridgejapan.co.jp/) &emsp; 2008-2011 <br>
 &emsp; Tasks: Firmware programming, QA testing
 
 <br> <i class="fa-solid fa-earth-americas"></i> &nbsp; **PROFESSIONAL MEMBERSHIPS**
@@ -72,19 +72,19 @@ De La Salle University &emsp; 2022-2024 <br>
 &emsp; &emsp; Completed courses: Advanced Calculus, Set Theory and Logic, Complex Analysis, Topology, Advanced
 Linear Algebra, <br> 
 &emsp; &emsp; &emsp; &emsp; Bioinformatics, Deep Learning, Bayesian Statistics, Statistical Methods <br>
-&emsp; &emsp; Member, Systems & Computational Biology Research Unit – Mentor: Prof. Angelyn R. Lao <br>
-&emsp; &emsp; Member, Bioinformatics Lab – Mentor: Dr. Anish M.S. Shrestha
+&emsp; &emsp; Member, [Systems & Computational Biology Research Unit](https://dlsu-scomb.github.io/) – Mentor: Prof. Angelyn R. Lao <br>
+&emsp; &emsp; Member, [Bioinformatics Lab](https://bioinfodlsu.com/) – Mentor: Dr. Anish M.S. Shrestha
 
 De La Salle University &emsp; 2019-2021 <br>
 &emsp; **MS Physics** <br>
 &emsp; &emsp; Thesis: Weak deflection angle and shadow of an extended uncertainty principle black hole
 with dark matter halo <br>
-&emsp; &emsp; Member, Theoretical Physics Research Group – Mentor: Prof. Emmanuel T. Rodulfo <br>
+&emsp; &emsp; Member, [Theoretical Physics Research Group](https://www.dlsu.edu.ph/colleges/cos/departments/physics/tprg/) – Mentor: Prof. Emmanuel T. Rodulfo <br>
 &emsp; &emsp; Physics Representative, Graduate Student Council, College of Science
 
 St. Luke's Medical Center College of Medicine &emsp; 2013-2018 <br>
 &emsp; **Doctor of Medicine** (*board certified*) <br>
-&emsp; &emsp; Student Researcher, Research Management Office – Mentor: Prof. Maria Nilda M. Muñoz
+&emsp; &emsp; Student Researcher, [Research Management Office](https://slmc-cm.edu.ph/research/research-departments/) – Mentor: Prof. Maria Nilda M. Muñoz
 
 De La Salle University &emsp; 2004-2008 <br>
 &emsp; **BS Computer Science, Major in Computer Systems Engineering** <br>
