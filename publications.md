@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 <i class="fa-regular fa-newspaper"></i> &nbsp; **ARTICLES**
 
-5. AB Ishimura, JCE Santos, <u>PK Yu</u>, LM Espiritu. [**Bacterial community and antimicrobial resistance genes profile in hospital wastewater among economic classes: A systematic review**]. *Environmental Pollution*. Elsevier. (Ongoing review)
+5. AB Ishimura, JCE Santos, <u>PK Yu</u>, LM Espiritu. **Bacterial community and antimicrobial resistance genes profile in hospital wastewater among economic classes: A systematic review**. *Environmental Pollution*. Elsevier. (Ongoing review)
 
 4. A Camba, RDS Ganadin, AF Simando III, <u>PK Yu</u>, JTP Cruz. [**Fetomaternal outcomes among cesarean section parturients administered with norepinephrine vs. phenylephrine for post-spinal anesthesia hypotension: A systematic review and meta-analysis**](https://www.medrxiv.org/content/10.1101/2025.03.04.25323394v1). *medRxiv*, 2025.03. 04.25323394. (Submitted to Women & Birth)
 
