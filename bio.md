@@ -62,7 +62,7 @@ System Engineer, [**i-Bridge Systems Japan Inc.**](https://www.i-bridgejapan.co.
 
 <br> <i class="fa-solid fa-graduation-cap"></i> &nbsp; **EDUCATION**
 
-Penn State University &emsp; 2024- <br>
+The Pennsylvania State University &emsp; 2024- <br>
 &emsp; **PhD Bioinformatics and Genomics** <br>
 &emsp; &emsp; Awards: Huck Distinguished Graduate Fellowship, Graham Award <br>
 &emsp; &emsp; Member, [Liu Group](https://dajiangliu.blog/) – Mentor: Prof. Dajiang J. Liu
