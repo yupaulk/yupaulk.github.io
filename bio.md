@@ -6,16 +6,19 @@ permalink: /bio/
 <i class="fa-solid fa-screwdriver-wrench"></i> &nbsp; **TECHNICAL PROFICIENCIES**
 
 *Languages*: Bash, C, CSS, HTML, Python, R <br>
-*Technologies*: Bioinformatics pipeline (fastqc, multiqc, cutadapt, bowtie2, samtools, metaphlan,
-metaxa2, phyloseq, qiime2), <br>
-&emsp; Canva, CellDesigner, Gephi, Github Pages (Jekyll), Google Colab, Maple, Mathematica, MATLAB, Microsoft Office, <br>
-&emsp; Overleaf (LaTeX), Power BI <br>
+*Technologies*: Bioinformatics pipeline *(metagenomics, bulk & single-cell RNA-seq, single-cell eQTL, GWAS meta-analysis)*, <br>
+&emsp; Canva, CellDesigner, Gephi, Github Pages *(Jekyll)*, Google Colab, Maple, Mathematica, MATLAB, Microsoft Office, <br>
+&emsp; Overleaf *(LaTeX)*, Power BI <br>
 *Source Control*: Git, Subversion <br>
-*Build Tools*: Snakemake, Docker, WDL <br>
+*Build Tools*: Docker, SLURM, Snakemake, WDL <br>
 *Cloud Technologies*: Terra.Bio, GCP <br>
-*Operating Systems*: Windows, Linux (VM, WSL)
+*Operating Systems*: Windows, Linux *(VM, WSL)*
 
 <br> <i class="fa-solid fa-briefcase"></i> &nbsp; **PROFESSIONAL EXPERIENCE**
+
+Research Assistant, [**Liu Group**](https://dajiangliu.blog/), Pennsylvania State University College of Medicine &emsp; 2024- <br>
+&emsp; Mentor: Prof. Dajiang J. Liu <br>
+&emsp; Tasks: Bioinformatics pipeline of single-cell eQTL analysis, GWAS meta-analysis
 
 Bioinformatics Consultant, [**David Lab**](https://www.ladlab.org/), Duke University &emsp; 2023-2024 <br>
 &emsp; Mentor: Dr. Lawrence A. David <br>
@@ -23,13 +26,11 @@ Bioinformatics Consultant, [**David Lab**](https://www.ladlab.org/), Duke Univer
 
 Research Assistant, [**Bioinformatics Lab**](https://bioinfodlsu.com/), De La Salle University &emsp; 2023-2024 <br>
 &emsp; Mentor: Dr. Anish M.S. Shrestha <br>
-&emsp; Tasks: Bioinformatics pipeline of metagenomic sequences, Fine-tuning of protein
-language model
+&emsp; Tasks: Bioinformatics pipeline of metagenomic sequences, Fine-tuning of protein language model
 
 Research Fellow, [**Systems & Computational Biology Unit**](https://dlsu-scomb.github.io/), De La Salle University &emsp; 2021-2024 <br>
 &emsp; Mentor: Prof. Angelyn R. Lao <br>
-&emsp; Tasks: Mathematical modeling of metabolic pathways, Network analysis, Systematic
-review, <br> 
+&emsp; Tasks: Mathematical modeling of metabolic pathways, Network analysis, Systematic review, Meta-analysis <br> 
 &emsp; &emsp; Imputation tool for single-cell RNA-Seq data, Microbiome analysis
 
 System Engineer, [**i-Bridge Systems Japan Inc.**](https://www.i-bridgejapan.co.jp/) &emsp; 2008-2011 <br>
@@ -62,7 +63,7 @@ System Engineer, [**i-Bridge Systems Japan Inc.**](https://www.i-bridgejapan.co.
 
 <br> <i class="fa-solid fa-graduation-cap"></i> &nbsp; **EDUCATION**
 
-The Pennsylvania State University &emsp; 2024- <br>
+Pennsylvania State University &emsp; 2024- <br>
 &emsp; **PhD Bioinformatics and Genomics** <br>
 &emsp; &emsp; Awards: Huck Distinguished Graduate Fellowship, Graham Award <br>
 &emsp; &emsp; Member, [Liu Group](https://dajiangliu.blog/) – Mentor: Prof. Dajiang J. Liu
