@@ -17,7 +17,7 @@ permalink: /publications/
 
 <br> <i class="fa-solid fa-people-group"></i> &nbsp; **CONFERENCE PROCEEDINGS/BOOK CHAPTERS** <br>
 
-2. LM Espiritu, PRD Capule, LY Casulla, <u>PK Yu</u>, MB Carascal, DJN Ombao, KIR Notarte, JJG Guerrero, V Chaturvedi. [**The Changing Face of *Candida* in Southeast Asia**] In *Mycology in a Changing Planet: Applications and Perspectives from Southeast Asia*. Springer Nature. (Ongoing review)
+2. LM Espiritu, PRD Capule, LY Casulla, <u>PK Yu</u>, MB Carascal, DJN Ombao, KIR Notarte, JJG Guerrero, V Chaturvedi. [**The changing face of _Candida_ in Southeast Asia**] In *Mycology in a Changing Planet: Applications and Perspectives from Southeast Asia*. Springer Nature. (Ongoing review)
 
 1. RO Dela Rosa, KS Rasing, PP Sy, JH Valdez, <u>PK Yu</u>, AR Lao. [**Meta-analysis of microplastic removal in biological and chemical wastewater treatment processes**](https://www.youtube.com/watch?v=DEtushxFmls). *6th DLSU SHS Research Congress*, Manila, Philippines, June 2024.
 
