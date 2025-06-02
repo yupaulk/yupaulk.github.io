@@ -23,6 +23,8 @@ permalink: /publications/
 
 <br> <i class="fa-solid fa-chalkboard-user"></i> &nbsp; **SUBMITTED ABSTRACTS/POSTERS/PAPERS IN CONFERENCES**
 
+17. **Systems biology approach to understanding insulin resistance as a linkage between type 2 diabetes & Alzheimer disease**, Poster presenter, [45th Annual PAASE Meeting & Symposium](https://apams.paase.org/), July 2025 [virtual]
+
 16. [**Metagenomic insights on the microbial profiles and resistomes of hospital wastewaters in Metro Manila, Philippines**](https://www.facebook.com/photo?fbid=499201563082518&set=a.118398554496156). Poster presented by Jiaan Santos, [Philippine Network of Microbial Culture Collections](https://www.facebook.com/photo/?fbid=973469581249256&set=pcb.973469791249235), Trinity University of Asia, Quezon City, Philippines, September 2024
 
 15. [**Bacterial community and antimicrobial resistant genes profile in hospital wastewater among economic classes: A systematic review**](https://www.facebook.com/photo/?fbid=499201609749180&set=a.118398554496156). Poster presented by Aiko Ishimura, [Philippine Network of Microbial Culture Collections](https://www.facebook.com/photo/?fbid=973469581249256&set=pcb.973469791249235), Trinity University of Asia, Quezon City, Philippines, September 2024
