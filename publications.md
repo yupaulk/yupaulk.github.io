@@ -5,25 +5,27 @@ permalink: /publications/
 ---
 <i class="fa-regular fa-newspaper"></i> &nbsp; **ARTICLES**
 
-5. AB Ishimura, JCE Santos, <u>PK Yu</u>, LM Espiritu. **Bacterial community and antimicrobial resistance genes profile in hospital wastewater among economic classes: A systematic review**. *Environmental Pollution*. Elsevier. (Ongoing review)
+5. AB Ishimura, JCE Santos, <u>PK Yu</u>, LM Espiritu. **Bacterial community and antimicrobial resistance genes profile in hospital wastewater among economic classes: A systematic review**. *Environmental Pollution*. Elsevier (Ongoing review)
 
-4. A Camba, RDS Ganadin, AF Simando III, <u>PK Yu</u>, JTP Cruz. [**Fetomaternal outcomes among cesarean section parturients administered with norepinephrine vs. phenylephrine for post-spinal anesthesia hypotension: A systematic review and meta-analysis**](https://www.medrxiv.org/content/10.1101/2025.03.04.25323394v1). *medRxiv*, 2025.03. 04.25323394. (Submitted to Women & Birth)
+4. A Camba, RDS Ganadin, AF Simando III, <u>PK Yu</u>, JTP Cruz. [**Fetomaternal outcomes among cesarean section parturients administered with norepinephrine vs. phenylephrine for post-spinal anesthesia hypotension: A systematic review and meta-analysis**](https://www.medrxiv.org/content/10.1101/2025.03.04.25323394v1). *medRxiv*, 2025.03. 04.25323394 (Submitted to Women & Birth)
 
-3. <u>PK Yu</u>, GC Aurellano, EB Guanzon, ET Templonuevo, UC Chua, BV Samson, JS delos Santos, AR Lao. [**Research landscape of Filipino mathematicians: A co-authorship network analysis**](https://philjournalsci.dost.gov.ph/images/pdf/pjs_pdf/vol153_No4_Aug2024/research_landscape_of_Filipino_Mathematicians_.pdf). *Phlippine Journal of Science* 153(4), 1277-1284, 2024. (Scopus-indexed Q3 (49th))
+3. <u>PK Yu</u>, GC Aurellano, EB Guanzon, ET Templonuevo, UC Chua, BV Samson, JS delos Santos, AR Lao. [**Research landscape of Filipino mathematicians: A co-authorship network analysis**](https://philjournalsci.dost.gov.ph/images/pdf/pjs_pdf/vol153_No4_Aug2024/research_landscape_of_Filipino_Mathematicians_.pdf). *Phlippine Journal of Science* 153(4), 1277-1284, 2024 (Scopus-indexed Q3 (49th))
 
-2. <u>PK Yu</u>, LS Moron-Espiritu,  AR Lao. [**Mathematical modeling of fluconazole resistance in the ergosterol pathway of *Candida albicans***](https://journals.asm.org/doi/10.1128/msystems.00691-22). *mSystems* 7(6), e00691-22, 2022. (Scopus-indexed Q1 (94th))
+2. <u>PK Yu</u>, LS Moron-Espiritu,  AR Lao. [**Mathematical modeling of fluconazole resistance in the ergosterol pathway of *Candida albicans***](https://journals.asm.org/doi/10.1128/msystems.00691-22). *mSystems* 7(6), e00691-22, 2022 (Scopus-indexed Q1 (94th))
 
-1. RC Pantig, <u>PK Yu</u>, ET Rodulfo, A Övgün. [**Shadow and weak deflection angle of extended uncertainty principle black hole surrounded with dark matter**](https://www.sciencedirect.com/science/article/abs/pii/S0003491621003225). *Annals of Physics* 436, 168722, 2022. (Scopus-indexed Q1 (75th))
+1. RC Pantig, <u>PK Yu</u>, ET Rodulfo, A Övgün. [**Shadow and weak deflection angle of extended uncertainty principle black hole surrounded with dark matter**](https://www.sciencedirect.com/science/article/abs/pii/S0003491621003225). *Annals of Physics* 436, 168722, 2022 (Scopus-indexed Q1 (75th))
 
 <br> <i class="fa-solid fa-people-group"></i> &nbsp; **CONFERENCE PROCEEDINGS/BOOK CHAPTERS** <br>
 
-2. LM Espiritu, PRD Capule, LY Casulla, <u>PK Yu</u>, MB Carascal, DJN Ombao, KIR Notarte, JJG Guerrero, V Chaturvedi. **The changing face of *Candida* in Southeast Asia**. In *Mycology in a Changing Planet: Applications and Perspectives from Southeast Asia*. Springer Nature. (Ongoing review)
+2. LM Espiritu, PRD Capule, LY Casulla, <u>PK Yu</u>, MB Carascal, DJN Ombao, KIR Notarte, JJG Guerrero, V Chaturvedi. **The changing face of *Candida* in Southeast Asia**. In *Mycology in a Changing Planet: Applications and Perspectives from Southeast Asia*. Springer Nature (Ongoing review)
 
-1. RO Dela Rosa, KS Rasing, PP Sy, JH Valdez, <u>PK Yu</u>, AR Lao. [**Meta-analysis of microplastic removal in biological and chemical wastewater treatment processes**](https://www.youtube.com/watch?v=DEtushxFmls). *6th DLSU SHS Research Congress*, Manila, Philippines, June 2024.
+1. RO Dela Rosa, KS Rasing, PP Sy, JH Valdez, <u>PK Yu</u>, AR Lao. [**Meta-analysis of microplastic removal in biological and chemical wastewater treatment processes**](https://www.youtube.com/watch?v=DEtushxFmls). *6th DLSU SHS Research Congress*, Manila, Philippines, June 2024
 
 <br> <i class="fa-solid fa-chalkboard-user"></i> &nbsp; **SUBMITTED ABSTRACTS/POSTERS/PAPERS IN CONFERENCES**
 
-17. **Systems biology approach to understanding insulin resistance as a linkage between type 2 diabetes & Alzheimer disease**, Poster presenter (Awarded the 2025 APAMS Graduate Fellowship Program), [45th Annual PAASE Meeting & Symposium](https://apams.paase.org/), University of South Carolina, Columbia SC, USA, July 2025 [virtual]
+18. **Systems biology approach to understanding insulin resistance as a linkage between type 2 diabetes & Alzheimer disease**, Poster presenter (Awarded the 2025 APAMS Graduate Fellowship Program), [45th Annual PAASE Meeting & Symposium](https://apams.paase.org/), University of South Carolina, Columbia SC, USA, July 2025 [virtual]
+
+17. **Investigating the resistome, microbial composition, and mobilome of hospital wastewaters in Metro Manila using shotgun metagenomics approach**, Poster presented by Jiaan Santos, [ASM Microbe 2025](https://asm.org/events/asm-microbe/home), Los Angeles, CA, USA, June 2025
 
 16. [**Metagenomic insights on the microbial profiles and resistomes of hospital wastewaters in Metro Manila, Philippines**](https://www.facebook.com/photo?fbid=499201563082518&set=a.118398554496156). Poster presented by Jiaan Santos, [Philippine Network of Microbial Culture Collections](https://www.facebook.com/photo/?fbid=973469581249256&set=pcb.973469791249235), Trinity University of Asia, Quezon City, Philippines, September 2024
 
