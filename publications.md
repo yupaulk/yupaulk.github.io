@@ -23,7 +23,7 @@ permalink: /publications/
 
 <br> <i class="fa-solid fa-chalkboard-user"></i> &nbsp; **SUBMITTED ABSTRACTS/POSTERS/PAPERS IN CONFERENCES**
 
-18. **Systems biology approach to understanding insulin resistance as a linkage between type 2 diabetes & Alzheimer disease**, Poster presenter (Awarded the 2025 APAMS Graduate Fellowship Program), [45th Annual PAASE Meeting & Symposium](https://apams.paase.org/), University of South Carolina, Columbia SC, USA, July 2025 [virtual]
+18. **Systems biology approach to understanding insulin resistance as a linkage between type 2 diabetes & Alzheimer disease**, Poster & rapid fire presenter (Awarded the 2025 APAMS Graduate Fellowship Program), [45th Annual PAASE Meeting & Symposium](https://apams.paase.org/#postersessions), University of South Carolina, Columbia SC, USA, July 2025 [virtual]
 
 17. **Investigating the resistome, microbial composition, and mobilome of hospital wastewaters in Metro Manila using shotgun metagenomics approach**, Poster presented by Jiaan Santos, [ASM Microbe 2025](https://asm.org/events/asm-microbe/home), Los Angeles, CA, USA, June 2025
 
